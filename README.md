@@ -38,7 +38,7 @@ En este ejercicio, tu tarea es crear un esquema XML (XSD) que valide documentos 
 
 Instrucciones:
 
-Define un elemento raíz llamado <hospital> que puede contener uno o más elementos <paciente>.
+Define un elemento raíz llamado hospital que puede contener uno o más elementos <paciente>.
 Cada elemento <paciente> debe contener elementos para el nombre, el apellido, la fecha de nacimiento, el sexo, el número de seguro social y una lista de consultas médicas del paciente.
 Define un elemento <consulta> para representar una consulta médica. Cada consulta debe tener elementos para la fecha de la consulta, el médico que realizó la consulta, el motivo de la consulta y el diagnóstico.
 Aplica las siguientes restricciones adicionales:
